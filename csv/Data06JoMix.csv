@@ -1,0 +1,501 @@
+Country,Age,Height_cm,Weight_kg,Sex,Weight_in_Words
+USA,29,183.1,78.7,Male,seventy-eight
+USA,58,188.3,93.6,Female,ninety-three
+USA,57,170,112,Male,one hundred and twelve
+USA,24,194.4,93.8,Male,ninety-three
+USA,49,185.5,113.5,Female,one hundred and thirteen
+USA,49,167.4,96.6,Male,ninety-six
+USA,30,176.8,107.4,Female,one hundred and seven
+USA,63,168.8,80,Male,eighty
+USA,41,162.5,71.3,Male,seventy-one
+USA,18,175.6,119.3,Female,one hundred and nineteen
+USA,30,187.6,85.1,Female,eighty-five
+USA,27,167.8,97.6,Male,ninety-seven
+USA,22,170.8,112.5,Female,one hundred and twelve
+USA,51,164.9,94.9,Male,ninety-four
+USA,22,185.5,99,Female,ninety-nine
+USA,34,188.1,86.6,Male,eighty-six
+USA,51,188.6,113.6,Male,one hundred and thirteen
+USA,49,173,101.2,Female,one hundred and one
+USA,45,169.2,103.7,Male,one hundred and three
+USA,57,164.6,61,Female,sixty-one
+USA,51,188.9,73.7,Male,seventy-three
+USA,18,166.5,73.4,Female,seventy-three
+USA,36,190.6,93.3,Male,ninety-three
+USA,58,174.5,60.8,Female,sixty
+USA,32,165.1,60.9,Female,sixty
+USA,24,166.7,89.9,Female,eighty-nine
+USA,42,160.9,76.1,Female,seventy-six
+USA,30,162,76,Male,seventy-six
+USA,28,162.1,107.8,Male,one hundred and seven
+USA,63,190.8,71.2,Female,seventy-one
+USA,31,192,56.8,Female,fifty-six
+USA,18,164.2,55.4,Male,fifty-five
+USA,56,163.4,107.3,Female,one hundred and seven
+USA,31,185.7,109.8,Male,one hundred and nine
+USA,24,192.9,78,Male,seventy-eight
+USA,24,192.7,70.4,Female,seventy
+USA,45,177.3,56.1,Male,fifty-six
+USA,57,182.5,92.7,Female,ninety-two
+USA,53,165.6,94.4,Female,ninety-four
+USA,52,194.1,67.3,Male,sixty-seven
+USA,50,180.6,111.1,Male,one hundred and eleven
+USA,32,164.3,81.1,Female,eighty-one
+USA,65,186.5,71.4,Male,seventy-one
+USA,63,183.2,102,Male,one hundred and two
+USA,21,192.3,94.3,Male,ninety-four
+USA,52,193.7,73.9,Male,seventy-three
+USA,41,179.5,68.1,Female,sixty-eight
+USA,59,184.8,71.3,Male,seventy-one
+USA,38,186,107.1,Male,one hundred and seven
+USA,35,183.2,99.1,Male,ninety-nine
+USA,26,174.4,75.6,Female,seventy-five
+USA,50,160.6,100.5,Male,one hundred
+USA,54,163.4,115.7,Female,one hundred and fifteen
+USA,49,164.2,111,Male,one hundred and eleven
+USA,59,160.3,93.7,Female,ninety-three
+USA,47,184.4,116.2,Female,one hundred and sixteen
+USA,24,191.5,74.2,Female,seventy-four
+USA,60,170.8,97.8,Female,ninety-seven
+USA,49,162.4,69,Male,sixty-nine
+USA,57,170,95.1,Male,ninety-five
+USA,40,171.3,100.3,Male,one hundred
+USA,46,188.7,95.7,Male,ninety-five
+USA,29,175,101.9,Female,one hundred and one
+USA,32,179.9,107.7,Male,one hundred and seven
+USA,47,186.8,63.5,Female,sixty-three
+USA,65,174.7,112.1,Male,one hundred and twelve
+USA,25,160.9,90,Male,ninety
+USA,21,176.7,57.7,Female,fifty-seven
+USA,65,191.1,56.9,Male,fifty-six
+USA,47,186.9,93.1,Female,ninety-three
+USA,37,181.7,92.6,Male,ninety-two
+USA,55,182.8,99.5,Female,ninety-nine
+USA,19,169.9,75.4,Female,seventy-five
+USA,59,185,108.6,Female,one hundred and eight
+USA,45,185.2,111.3,Female,one hundred and eleven
+USA,26,171.2,93.4,Female,ninety-three
+USA,50,177.8,63.9,Female,sixty-three
+USA,29,184.8,112.1,Female,one hundred and twelve
+USA,52,186.3,112.1,Male,one hundred and twelve
+USA,64,182.3,81.6,Male,eighty-one
+USA,19,176.7,65.4,Female,sixty-five
+USA,54,179.6,85.5,Female,eighty-five
+USA,19,170.2,65.9,Female,sixty-five
+USA,47,160.3,73.9,Male,seventy-three
+USA,34,180.2,113.1,Female,one hundred and thirteen
+USA,44,177.3,96.7,Female,ninety-six
+USA,58,186.2,113.2,Female,one hundred and thirteen
+USA,29,188.6,97.3,Female,ninety-seven
+USA,31,186.1,90.8,Female,ninety
+USA,63,163.4,98.8,Male,ninety-eight
+USA,43,170.3,83,Female,eighty-three
+USA,62,187.7,100.5,Female,one hundred
+USA,56,165.2,109.1,Female,one hundred and nine
+USA,43,171.8,108.1,Female,one hundred and eight
+USA,44,188.4,81.9,Male,eighty-one
+USA,50,181.4,107.8,Female,one hundred and seven
+USA,34,183.4,88.5,Male,eighty-eight
+USA,64,187.6,117.6,Male,one hundred and seventeen
+USA,42,184.8,105.2,Male,one hundred and five
+USA,23,184.2,74.4,Male,seventy-four
+Algeria,37,175.5,88.1,Male,eighty-eight
+Algeria,33,173.1,91.9,Female,ninety-one
+Algeria,48,161.5,78.1,Male,seventy-eight
+Algeria,43,155.8,73.5,Female,seventy-three
+Algeria,59,167.9,63,Female,sixty-three
+Algeria,19,178,55.3,Male,fifty-five
+Algeria,41,173.5,69,Male,sixty-nine
+Algeria,39,164.1,89.2,Male,eighty-nine
+Algeria,49,159,59.8,Female,fifty-nine
+Algeria,20,180.6,70.8,Female,seventy
+Algeria,31,171,53.5,Male,fifty-three
+Algeria,29,178.7,74.3,Female,seventy-four
+Algeria,25,182.8,55,Female,fifty-five
+Algeria,22,168.8,78.4,Male,seventy-eight
+Algeria,60,167.1,91.7,Female,ninety-one
+Algeria,57,175.3,52.6,Male,fifty-two
+Algeria,59,164.5,80.6,Female,eighty
+Algeria,61,157.3,64.1,Male,sixty-four
+Algeria,60,163.6,80.9,Male,eighty
+Algeria,26,181.6,58.2,Female,fifty-eight
+Algeria,27,156.7,74.2,Male,seventy-four
+Algeria,59,165.6,60.2,Male,sixty
+Algeria,59,173.6,83.4,Female,eighty-three
+Algeria,45,165.6,65.1,Female,sixty-five
+Algeria,60,163.1,76.2,Male,seventy-six
+Algeria,48,182.1,66,Male,sixty-six
+Algeria,58,182.8,64.1,Female,sixty-four
+Algeria,30,171.6,65.5,Female,sixty-five
+Algeria,18,162,80.4,Female,eighty
+Algeria,32,161.1,76.5,Male,seventy-six
+Algeria,40,183.5,72,Female,seventy-two
+Algeria,44,161.9,51.6,Male,fifty-one
+Algeria,25,182.4,53.4,Male,fifty-three
+Algeria,25,162.9,66,Male,sixty-six
+Algeria,28,180.4,76.8,Male,seventy-six
+Algeria,63,170.3,62.4,Female,sixty-two
+Algeria,31,169.2,90.4,Female,ninety
+Algeria,24,170.2,63.8,Female,sixty-three
+Algeria,46,183.9,71.2,Female,seventy-one
+Algeria,47,181.4,60.2,Male,sixty
+Algeria,27,179.9,68.4,Female,sixty-eight
+Algeria,60,161.2,63.9,Male,sixty-three
+Algeria,35,170.8,76.8,Male,seventy-six
+Algeria,25,180.4,70.3,Male,seventy
+Algeria,29,182.1,81.8,Male,eighty-one
+Algeria,22,156.2,82.5,Male,eighty-two
+Algeria,63,160.3,54.5,Female,fifty-four
+Algeria,65,181.5,94.9,Male,ninety-four
+Algeria,63,178.1,80.4,Female,eighty
+Algeria,31,178.1,90,Female,ninety
+Algeria,61,169.5,69.6,Male,sixty-nine
+Algeria,32,182.2,66.3,Female,sixty-six
+Algeria,34,156.9,55.3,Male,fifty-five
+Algeria,29,169,70.4,Male,seventy
+Algeria,27,160.3,83.8,Male,eighty-three
+Algeria,21,156.1,90.4,Male,ninety
+Algeria,48,163.7,90,Female,ninety
+Algeria,36,183.1,93.8,Female,ninety-three
+Algeria,56,157.6,67.2,Male,sixty-seven
+Algeria,24,184.2,60.1,Male,sixty
+Algeria,41,183.9,92,Male,ninety-two
+Algeria,32,182.2,91.8,Female,ninety-one
+Algeria,25,175.6,67.6,Male,sixty-seven
+Algeria,47,175.7,91.5,Male,ninety-one
+Algeria,24,182.2,59.8,Male,fifty-nine
+Algeria,61,183.5,74.9,Male,seventy-four
+Algeria,62,178.2,59.2,Male,fifty-nine
+Algeria,64,157.7,61.5,Male,sixty-one
+Algeria,64,157.1,67.6,Male,sixty-seven
+Algeria,61,176.6,57.2,Male,fifty-seven
+Algeria,21,176.7,74.6,Female,seventy-four
+Algeria,23,159.8,61.1,Female,sixty-one
+Algeria,18,177.8,69.7,Male,sixty-nine
+Algeria,22,155.6,55,Female,fifty-five
+Algeria,35,167.4,54.3,Male,fifty-four
+Algeria,63,169.7,83.9,Male,eighty-three
+Algeria,27,174.7,88.2,Male,eighty-eight
+Algeria,42,171.5,71.2,Female,seventy-one
+Algeria,47,164.9,57.3,Female,fifty-seven
+Algeria,28,173.2,88.5,Male,eighty-eight
+Algeria,19,160.8,72.6,Male,seventy-two
+Algeria,30,176.8,93.1,Female,ninety-three
+Algeria,19,177.1,56.9,Female,fifty-six
+Algeria,38,173.8,53.6,Male,fifty-three
+Algeria,57,171.4,92.2,Male,ninety-two
+Algeria,21,175.5,85.3,Female,eighty-five
+Algeria,44,162.8,82.9,Female,eighty-two
+Algeria,45,159.1,91,Male,ninety-one
+Algeria,59,178.4,54.5,Female,fifty-four
+Algeria,29,174.5,91.9,Female,ninety-one
+Algeria,18,160.6,52.7,Male,fifty-two
+Algeria,32,166.6,57.1,Male,fifty-seven
+Algeria,29,180.8,72.4,Female,seventy-two
+Algeria,36,162.7,74.5,Female,seventy-four
+Algeria,31,160.3,76.7,Male,seventy-six
+Algeria,47,169.1,87.2,Female,eighty-seven
+Algeria,46,161.9,78.7,Female,seventy-eight
+Algeria,44,168.8,70.9,Female,seventy
+Algeria,36,161.2,82.5,Female,eighty-two
+Algeria,18,178.1,81.3,Female,eighty-one
+Jordan,33,178.7,90.6,Male,ninety
+Jordan,53,158.8,92.4,Male,ninety-two
+Jordan,56,155.9,88.9,Male,eighty-eight
+Jordan,20,165.9,78.9,Male,seventy-eight
+Jordan,27,160.6,73.5,Male,seventy-three
+Jordan,59,178.7,70.8,Female,seventy
+Jordan,55,166.1,84.5,Male,eighty-four
+Jordan,63,181.1,51.3,Male,fifty-one
+Jordan,18,166.8,89,Female,eighty-nine
+Jordan,33,168.9,56,Male,fifty-six
+Jordan,56,169,65.8,Male,sixty-five
+Jordan,62,156.3,80.2,Female,eighty
+Jordan,40,178.6,69.7,Female,sixty-nine
+Jordan,57,178.8,71.6,Female,seventy-one
+Jordan,32,173,57.3,Female,fifty-seven
+Jordan,51,177.6,79.4,Male,seventy-nine
+Jordan,18,156.2,58.5,Male,fifty-eight
+Jordan,55,173.2,74.3,Female,seventy-four
+Jordan,46,178.2,51.6,Male,fifty-one
+Jordan,23,182,92.8,Female,ninety-two
+Jordan,19,156.2,87.5,Male,eighty-seven
+Jordan,21,180.4,56.5,Male,fifty-six
+Jordan,31,158.5,92,Male,ninety-two
+Jordan,59,162.5,84.6,Male,eighty-four
+Jordan,23,173.1,76,Male,seventy-six
+Jordan,48,179.3,68.2,Female,sixty-eight
+Jordan,54,178.1,86.6,Male,eighty-six
+Jordan,65,160.5,93.4,Female,ninety-three
+Jordan,26,167.5,83.8,Male,eighty-three
+Jordan,52,163.9,76.7,Female,seventy-six
+Jordan,34,180.6,90,Male,ninety
+Jordan,22,166,52,Male,fifty-two
+Jordan,25,168.9,64.6,Female,sixty-four
+Jordan,55,162.1,90.5,Male,ninety
+Jordan,19,181,90.2,Female,ninety
+Jordan,58,180,56.5,Male,fifty-six
+Jordan,19,176.2,73.8,Male,seventy-three
+Jordan,27,157.2,93.4,Female,ninety-three
+Jordan,30,173.2,72.8,Female,seventy-two
+Jordan,20,184.5,70.3,Female,seventy
+Jordan,41,175.3,93.5,Female,ninety-three
+Jordan,41,163.9,72.9,Male,seventy-two
+Jordan,34,167.8,79.8,Female,seventy-nine
+Jordan,31,163.5,56.8,Male,fifty-six
+Jordan,37,184.6,75.5,Female,seventy-five
+Jordan,22,172.9,77.6,Male,seventy-seven
+Jordan,53,161.1,91.9,Female,ninety-one
+Jordan,18,171.8,68.6,Female,sixty-eight
+Jordan,23,181.9,86.8,Male,eighty-six
+Jordan,65,162.5,77.2,Female,seventy-seven
+Jordan,45,179.4,81.5,Male,eighty-one
+Jordan,21,175.7,58.9,Female,fifty-eight
+Jordan,40,172,68.5,Male,sixty-eight
+Jordan,56,179.5,71,Male,seventy-one
+Jordan,56,177.9,52.7,Male,fifty-two
+Jordan,38,157.4,93.7,Female,ninety-three
+Jordan,43,168.4,88.1,Female,eighty-eight
+Jordan,50,169,88.8,Female,eighty-eight
+Jordan,19,170.3,54.2,Female,fifty-four
+Jordan,41,170.8,92.7,Male,ninety-two
+Jordan,46,156.7,72.6,Female,seventy-two
+Jordan,60,168.8,70.2,Female,seventy
+Jordan,48,177,57.8,Female,fifty-seven
+Jordan,33,169.9,87.7,Female,eighty-seven
+Jordan,60,173.9,66.2,Female,sixty-six
+Jordan,46,161.4,56.4,Female,fifty-six
+Jordan,48,168.8,54.7,Female,fifty-four
+Jordan,21,169.9,59.7,Female,fifty-nine
+Jordan,47,181.1,63.3,Female,sixty-three
+Jordan,32,182,91.8,Male,ninety-one
+Jordan,21,155.9,72.9,Female,seventy-two
+Jordan,39,181.6,76,Male,seventy-six
+Jordan,44,157.1,63.4,Female,sixty-three
+Jordan,48,180.7,52.4,Male,fifty-two
+Jordan,48,172.4,61.4,Male,sixty-one
+Jordan,33,179.9,80.6,Male,eighty
+Jordan,60,174.8,73.3,Female,seventy-three
+Jordan,65,169.7,78.7,Female,seventy-eight
+Jordan,60,168.4,77,Male,seventy-seven
+Jordan,27,176.4,93.6,Female,ninety-three
+Jordan,41,168.6,68,Male,sixty-eight
+Jordan,41,176.1,53.1,Male,fifty-three
+Jordan,42,165.9,86,Male,eighty-six
+Jordan,29,167.3,54.7,Female,fifty-four
+Jordan,19,155.9,73.8,Female,seventy-three
+Jordan,55,180.1,93.6,Female,ninety-three
+Jordan,63,181.6,60.5,Female,sixty
+Jordan,50,177.2,52.7,Female,fifty-two
+Jordan,28,158,87.9,Male,eighty-seven
+Jordan,30,155.8,81.6,Male,eighty-one
+Jordan,51,181.2,70.8,Female,seventy
+Jordan,43,175.4,89.4,Male,eighty-nine
+Jordan,60,160.4,74.2,Male,seventy-four
+Jordan,46,161.7,87.2,Female,eighty-seven
+Jordan,22,161.9,68.8,Female,sixty-eight
+Jordan,29,172.2,82.8,Male,eighty-two
+Jordan,57,156,56.7,Female,fifty-six
+Jordan,43,164.8,80.5,Female,eighty
+Jordan,62,164.8,86.1,Male,eighty-six
+Jordan,30,178.4,67.6,Male,sixty-seven
+United Arab Emirates,42,175.2,93.4,Male,ninety-three
+United Arab Emirates,58,166.2,99.8,Female,ninety-nine
+United Arab Emirates,61,160.7,94.8,Male,ninety-four
+United Arab Emirates,47,167.3,70.6,Female,seventy
+United Arab Emirates,19,170,60.9,Female,sixty
+United Arab Emirates,59,168.6,68.8,Female,sixty-eight
+United Arab Emirates,56,168.7,88.7,Female,eighty-eight
+United Arab Emirates,25,160,91.6,Male,ninety-one
+United Arab Emirates,60,187.1,86.6,Female,eighty-six
+United Arab Emirates,62,160.9,62,Female,sixty-two
+United Arab Emirates,54,181.5,65.7,Female,sixty-five
+United Arab Emirates,41,189.2,59.2,Female,fifty-nine
+United Arab Emirates,21,178.1,78.5,Male,seventy-eight
+United Arab Emirates,32,172.5,73.7,Male,seventy-three
+United Arab Emirates,59,169.4,76.3,Female,seventy-six
+United Arab Emirates,44,189.6,81.9,Female,eighty-one
+United Arab Emirates,30,188.2,64.7,Female,sixty-four
+United Arab Emirates,58,181.2,67.2,Male,sixty-seven
+United Arab Emirates,47,183.3,81.5,Female,eighty-one
+United Arab Emirates,48,189.8,94.6,Male,ninety-four
+United Arab Emirates,39,164.4,84.2,Female,eighty-four
+United Arab Emirates,26,162.8,66.4,Female,sixty-six
+United Arab Emirates,39,168.1,60.6,Female,sixty
+United Arab Emirates,33,167.5,84.5,Male,eighty-four
+United Arab Emirates,56,182.2,69.5,Female,sixty-nine
+United Arab Emirates,26,189.4,88.9,Female,eighty-eight
+United Arab Emirates,50,189.5,71.1,Male,seventy-one
+United Arab Emirates,18,189.7,94.1,Female,ninety-four
+United Arab Emirates,30,169.4,91.3,Male,ninety-one
+United Arab Emirates,27,188,58.9,Female,fifty-eight
+United Arab Emirates,19,181.1,60,Female,sixty
+United Arab Emirates,31,176.5,75.3,Male,seventy-five
+United Arab Emirates,65,174.8,84.6,Male,eighty-four
+United Arab Emirates,60,180.7,73.6,Male,seventy-three
+United Arab Emirates,64,186.4,62,Female,sixty-two
+United Arab Emirates,22,169.9,97.1,Male,ninety-seven
+United Arab Emirates,59,168.4,90.3,Male,ninety
+United Arab Emirates,30,177.3,99.8,Male,ninety-nine
+United Arab Emirates,27,167.1,97.6,Female,ninety-seven
+United Arab Emirates,42,165.9,90.4,Female,ninety
+United Arab Emirates,22,171,69.2,Male,sixty-nine
+United Arab Emirates,50,179.4,97.6,Male,ninety-seven
+United Arab Emirates,18,177.9,88.7,Female,eighty-eight
+United Arab Emirates,31,168.4,71.4,Male,seventy-one
+United Arab Emirates,35,172.8,97.4,Male,ninety-seven
+United Arab Emirates,29,161.9,95.1,Male,ninety-five
+United Arab Emirates,59,175.2,96.8,Male,ninety-six
+United Arab Emirates,52,181.8,59.8,Female,fifty-nine
+United Arab Emirates,64,177.4,88,Male,eighty-eight
+United Arab Emirates,60,172.1,66.9,Female,sixty-six
+United Arab Emirates,41,166.8,77.1,Male,seventy-seven
+United Arab Emirates,60,186.8,60.5,Female,sixty
+United Arab Emirates,43,171.3,98,Male,ninety-eight
+United Arab Emirates,64,188.5,66.6,Female,sixty-six
+United Arab Emirates,54,162.3,83,Female,eighty-three
+United Arab Emirates,46,177.1,56.6,Male,fifty-six
+United Arab Emirates,64,177.2,74.6,Female,seventy-four
+United Arab Emirates,21,163,68.8,Male,sixty-eight
+United Arab Emirates,28,182.1,77.1,Male,seventy-seven
+United Arab Emirates,55,172.9,86.3,Male,eighty-six
+United Arab Emirates,46,164.7,57.7,Female,fifty-seven
+United Arab Emirates,41,181.8,84.1,Male,eighty-four
+United Arab Emirates,51,163.6,59.3,Female,fifty-nine
+United Arab Emirates,19,174,73.2,Male,seventy-three
+United Arab Emirates,45,180,74.1,Female,seventy-four
+United Arab Emirates,39,174.3,65.3,Female,sixty-five
+United Arab Emirates,26,177,94.6,Female,ninety-four
+United Arab Emirates,33,162.6,97.9,Female,ninety-seven
+United Arab Emirates,62,173.4,61.5,Female,sixty-one
+United Arab Emirates,32,160,81.3,Male,eighty-one
+United Arab Emirates,47,162.3,55.8,Female,fifty-five
+United Arab Emirates,24,166.7,74.7,Male,seventy-four
+United Arab Emirates,38,164,86.5,Male,eighty-six
+United Arab Emirates,30,181.4,87.7,Female,eighty-seven
+United Arab Emirates,23,164.1,99.6,Female,ninety-nine
+United Arab Emirates,49,186.9,79.2,Female,seventy-nine
+United Arab Emirates,51,161.3,66,Male,sixty-six
+United Arab Emirates,41,183,66.4,Female,sixty-six
+United Arab Emirates,62,168.2,81.2,Female,eighty-one
+United Arab Emirates,36,181.8,74.4,Male,seventy-four
+United Arab Emirates,33,178.7,71.9,Female,seventy-one
+United Arab Emirates,32,188.7,81.9,Male,eighty-one
+United Arab Emirates,21,183,65.7,Female,sixty-five
+United Arab Emirates,26,174.8,67.6,Male,sixty-seven
+United Arab Emirates,51,163.1,69,Male,sixty-nine
+United Arab Emirates,23,179.1,81.9,Female,eighty-one
+United Arab Emirates,43,167.2,59.8,Male,fifty-nine
+United Arab Emirates,36,169.4,87.1,Female,eighty-seven
+United Arab Emirates,33,188.8,66.8,Female,sixty-six
+United Arab Emirates,32,177.5,59.2,Female,fifty-nine
+United Arab Emirates,40,160.8,61.4,Female,sixty-one
+United Arab Emirates,26,189.9,68.3,Female,sixty-eight
+United Arab Emirates,48,167.2,76.4,Female,seventy-six
+United Arab Emirates,61,163.4,75,Female,seventy-five
+United Arab Emirates,58,188.8,83.9,Male,eighty-three
+United Arab Emirates,58,183.6,98.3,Female,ninety-eight
+United Arab Emirates,28,160.8,59.8,Female,fifty-nine
+United Arab Emirates,39,188.8,81.3,Male,eighty-one
+United Arab Emirates,35,160.4,90.2,Male,ninety
+United Arab Emirates,18,166.3,94.5,Female,ninety-four
+The Netherlands,52,175.9,69.8,Male,sixty-nine
+The Netherlands,36,166.7,74.2,Male,seventy-four
+The Netherlands,40,170.8,105.6,Female,one hundred and five
+The Netherlands,47,186.8,69.5,Male,sixty-nine
+The Netherlands,63,165.3,69.7,Female,sixty-nine
+The Netherlands,64,168.9,68.5,Male,sixty-eight
+The Netherlands,22,173,108.7,Male,one hundred and eight
+The Netherlands,48,178.4,85.8,Male,eighty-five
+The Netherlands,34,172.7,85.1,Female,eighty-five
+The Netherlands,31,177,62.3,Male,sixty-two
+The Netherlands,44,184.1,66.7,Female,sixty-six
+The Netherlands,51,175.9,89,Male,eighty-nine
+The Netherlands,52,170.7,104.5,Female,one hundred and four
+The Netherlands,38,194.3,61.3,Female,sixty-one
+The Netherlands,21,176.4,61.8,Female,sixty-one
+The Netherlands,20,183.8,62.5,Male,sixty-two
+The Netherlands,31,168,77,Male,seventy-seven
+The Netherlands,21,165.5,99.7,Male,ninety-nine
+The Netherlands,44,178.9,60.9,Female,sixty
+The Netherlands,47,167.5,108.3,Female,one hundred and eight
+The Netherlands,19,198.9,107.3,Male,one hundred and seven
+The Netherlands,39,167.2,72.7,Male,seventy-two
+The Netherlands,26,186.8,65.5,Female,sixty-five
+The Netherlands,30,166.5,89.1,Female,eighty-nine
+The Netherlands,30,182.3,105.7,Female,one hundred and five
+The Netherlands,18,189.1,97.9,Female,ninety-seven
+The Netherlands,55,182.1,92.6,Male,ninety-two
+The Netherlands,34,183.6,72.4,Female,seventy-two
+The Netherlands,42,192.1,100.9,Male,one hundred
+The Netherlands,52,184.9,97.4,Male,ninety-seven
+The Netherlands,39,187.7,60.8,Male,sixty
+The Netherlands,28,199.2,98,Female,ninety-eight
+The Netherlands,65,179,109.9,Female,one hundred and nine
+The Netherlands,26,181.2,80.7,Female,eighty
+The Netherlands,39,180,105.9,Male,one hundred and five
+The Netherlands,47,186.5,69.5,Female,sixty-nine
+The Netherlands,29,171.8,97.7,Female,ninety-seven
+The Netherlands,46,188.6,98.9,Male,ninety-eight
+The Netherlands,50,191.8,87.6,Female,eighty-seven
+The Netherlands,47,181.1,108.4,Female,one hundred and eight
+The Netherlands,24,179.5,74.5,Female,seventy-four
+The Netherlands,22,187.1,78.9,Female,seventy-eight
+The Netherlands,49,199.9,65.1,Male,sixty-five
+The Netherlands,19,181.5,88.8,Male,eighty-eight
+The Netherlands,23,185.7,70.8,Female,seventy
+The Netherlands,32,192.4,98.7,Male,ninety-eight
+The Netherlands,38,176.6,71.4,Male,seventy-one
+The Netherlands,18,197,83,Female,eighty-three
+The Netherlands,52,198,98.7,Female,ninety-eight
+The Netherlands,22,185,69.6,Male,sixty-nine
+The Netherlands,21,177.6,99.9,Female,ninety-nine
+The Netherlands,43,176.3,89.9,Male,eighty-nine
+The Netherlands,20,179,75.5,Male,seventy-five
+The Netherlands,53,198,86.1,Female,eighty-six
+The Netherlands,33,187.6,95.5,Male,ninety-five
+The Netherlands,54,166.9,66.4,Female,sixty-six
+The Netherlands,40,191.5,62.5,Female,sixty-two
+The Netherlands,56,174.5,76.6,Male,seventy-six
+The Netherlands,55,181.3,80.8,Male,eighty
+The Netherlands,37,169,95.6,Male,ninety-five
+The Netherlands,54,165.5,73.9,Female,seventy-three
+The Netherlands,28,168.8,86.3,Male,eighty-six
+The Netherlands,47,196.7,100.5,Male,one hundred
+The Netherlands,31,187.8,105.1,Female,one hundred and five
+The Netherlands,55,183.8,60.8,Female,sixty
+The Netherlands,35,178.5,69.5,Male,sixty-nine
+The Netherlands,23,168.8,90.5,Female,ninety
+The Netherlands,58,175.8,67.7,Male,sixty-seven
+The Netherlands,25,169.1,81.3,Female,eighty-one
+The Netherlands,43,175.1,62.3,Female,sixty-two
+The Netherlands,24,185,94.1,Female,ninety-four
+The Netherlands,48,193.7,76.3,Male,seventy-six
+The Netherlands,36,184.4,95.4,Male,ninety-five
+The Netherlands,51,172.7,104.2,Female,one hundred and four
+The Netherlands,64,184.3,62.5,Male,sixty-two
+The Netherlands,55,194.6,78.1,Male,seventy-eight
+The Netherlands,18,170.1,64,Female,sixty-four
+The Netherlands,44,183.4,107.3,Male,one hundred and seven
+The Netherlands,27,165.5,86.6,Female,eighty-six
+The Netherlands,26,167.6,107.9,Male,one hundred and seven
+The Netherlands,38,188.4,85.4,Female,eighty-five
+The Netherlands,20,173.4,81.9,Male,eighty-one
+The Netherlands,18,191.6,81.7,Female,eighty-one
+The Netherlands,40,195.9,93,Male,ninety-three
+The Netherlands,60,179.1,66,Male,sixty-six
+The Netherlands,23,173.2,65,Female,sixty-five
+The Netherlands,27,187.9,93.5,Male,ninety-three
+The Netherlands,42,188.5,60.7,Male,sixty
+The Netherlands,47,171.4,73.7,Female,seventy-three
+The Netherlands,56,187.2,78.4,Male,seventy-eight
+The Netherlands,19,171.5,97.1,Female,ninety-seven
+The Netherlands,32,166.1,103.3,Female,one hundred and three
+The Netherlands,26,193.8,99.1,Male,ninety-nine
+The Netherlands,26,172,77.6,Female,seventy-seven
+The Netherlands,60,183,89.1,Female,eighty-nine
+The Netherlands,18,168.6,75.8,Male,seventy-five
+The Netherlands,26,198.2,74.5,Male,seventy-four
+The Netherlands,37,165.1,85.9,Female,eighty-five
+The Netherlands,25,199.1,61.5,Male,sixty-one
+The Netherlands,20,193.2,95.9,Male,ninety-five
